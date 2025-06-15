@@ -1,0 +1,6 @@
+# Text files that should be treated as binary files, e.g., mesh, geometry, data
+# files etc.
+*.msh binary
+*.obj binary
+*.vtk binary
+*.stl binary
