@@ -82,4 +82,11 @@ SunOS*Gcc*/
 *.tgz
 *.gtgz
 
+# Language Server (e.g., clangd) and IDE-related files
+.idea/
+.vscode/
+.cache/
+compile_commands.json
+compile_flags.txt
+
 # end-of-file
